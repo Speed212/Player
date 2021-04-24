@@ -1,0 +1,17 @@
+.Bar{
+  display: flex;
+  margin: 3%;
+  padding: 2rem;
+  transition-duration: .3s;
+  &:hover{
+    background: #cddce5;
+    transition: .3s;
+  }
+
+}
+.img{
+  margin-right: 2rem;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}

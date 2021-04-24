@@ -1,0 +1,29 @@
+.playerContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.playerFoot{
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  padding:  0 .5rem;
+}
+
+.range{
+  width: 250px;
+}
+.playerArrows{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  .icon{
+    margin: 5px 75px;
+  }
+}
+
